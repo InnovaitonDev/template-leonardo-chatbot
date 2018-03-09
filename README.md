@@ -1,12 +1,10 @@
 # Project Title
 
-[![Build Status](https://img.shields.io/travis/PHP-DI/PHP-DI/master.svg?style=flat-square)](https://travis-ci.org/PHP-DI/PHP-DI)
-[![Coverage Status](https://img.shields.io/coveralls/PHP-DI/PHP-DI/master.svg?style=flat-square)](https://coveralls.io/r/PHP-DI/PHP-DI?branch=master)
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/PHP-DI/PHP-DI.svg?style=flat-square)](https://scrutinizer-ci.com/g/PHP-DI/PHP-DI/?branch=master)
-[![Latest Version](https://img.shields.io/github/release/PHP-DI/PHP-DI.svg?style=flat-square)](https://packagist.org/packages/PHP-DI/php-di)
-[![Total Downloads](https://img.shields.io/packagist/dt/PHP-DI/PHP-DI.svg?style=flat-square)](https://packagist.org/packages/PHP-DI/php-di)
+[![Build Status](https://img.shields.io/travis/InnovaitonDev/REPO_NAME.svg?style=flat-square)](https://travis-ci.org/InnovaitonDev/REPO_NAME)
+[![Coverage Status](https://img.shields.io/coveralls/InnovaitonDev/master.svg?style=flat-square)](https://coveralls.io/r/InnovaitonDev/REPO_NAME?branch=master)
+[![Latest Version](https://img.shields.io/github/release/InnovaitonDev/REPO_NAME.svg?style=flat-square)](https://github.com/InnovaitonDev/REPO_NAME/releases)
 
-One Paragraph of project description goes here
+Brief project description
 
 ## Getting Started
 
@@ -42,52 +40,22 @@ End with an example of getting some data out of the system or using it for a lit
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [React.js](http://www.dropwizard.io/1.0.2/docs/) - Web Front-end
+* [Express.js](http://www.dropwizard.io/1.0.2/docs/) - Web Back-end
+* [NPM](https://maven.apache.org/) - Dependency Management
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Author Name** - *Author's Role* - [RepoName](https://github.com/RepoName)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ORGANIZATION/REPO_NAME/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
